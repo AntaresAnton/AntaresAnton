@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/AntaresAnton/AntaresAnton/main/assets/header-image.gif" alt="Header" width="100%"/>
   
-  # Patricio Quintanilla Yevilao
+  # Patricio Quintanilla
   ### 👨‍💻 Full Stack Developer | 🎨 UI/UX Designer
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antn/)
