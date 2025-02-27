@@ -32,13 +32,15 @@ Full Stack Developer y UI/UX Designer con experiencia en desarrollo web moderno.
 <details>
   <summary><b>🌟 Más sobre mí...</b></summary>
   <br>
-  
   - 🔭 Actualmente trabajando en proyectos de E-commerce avanzados
   - 🌱 Aprendiendo continuamente sobre arquitecturas cloud y DevOps
   - 👯 Buscando colaborar en proyectos de impacto social
-  - 💬 Pregúntame sobre desarrollo web, diseño UI/UX o café ☕
-  - ⚡ Dato curioso: Colecciono vinilos de jazz y soy barista aficionado
+  - 💬 Pregúntame sobre desarrollo web, diseño UI/UX o Música :D
+  - 🎸 Fan del rock y con el sueño de tocar guitarra como Chuck Schuldiner (Death)
+  - 🎨 Entusiasta de Bootstrap para el desarrollo frontend
+  - 🎯 Este año me he prometido dominar Java por completo
 </details>
+
 
 ---
 
@@ -65,7 +67,7 @@ Full Stack Developer y UI/UX Designer con experiencia en desarrollo web moderno.
       <br>Java
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="PHP" width="65" height="65"/>
+      <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="PHP" width="65" height="65"/>
       <br>PHP
     </td>
   </tr>
@@ -164,7 +166,7 @@ Full Stack Developer y UI/UX Designer con experiencia en desarrollo web moderno.
 
 ---
 
-## 🏆 Proyectos Destacados | <sup>*Featured Projects*</sup>
+<!-- ## 🏆 Proyectos Destacados | <sup>*Featured Projects*</sup>
 
 <div align="center">
   <table>
@@ -207,7 +209,7 @@ Full Stack Developer y UI/UX Designer con experiencia en desarrollo web moderno.
       </td>
     </tr>
   </table>
-</div>
+</div> -->
 
 ---
 
