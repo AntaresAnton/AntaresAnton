@@ -32,6 +32,7 @@ Full Stack Developer y UI/UX Designer con experiencia en desarrollo web moderno.
 <details>
   <summary><b>🌟 Más sobre mí...</b></summary>
   <br>
+  
   - 🔭 Actualmente trabajando en proyectos de E-commerce avanzados
   - 🌱 Aprendiendo continuamente sobre arquitecturas cloud y DevOps
   - 👯 Buscando colaborar en proyectos de impacto social
@@ -40,6 +41,7 @@ Full Stack Developer y UI/UX Designer con experiencia en desarrollo web moderno.
   - 🎨 Entusiasta de Bootstrap para el desarrollo frontend
   - 🎯 Este año me he prometido dominar Java por completo
 </details>
+
 
 
 ---
