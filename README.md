@@ -5,12 +5,6 @@
   
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00B3FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+UI%2FUX+Designer;Python+%7C+JavaScript+%7C+React+%7C+Django;Creating+Digital+Experiences+%F0%9F%9A%80;Rock+Music+Enthusiast+%F0%9F%8E%B8;Always+Learning+New+Technologies" alt="Typing SVG" /></a>
   
-  <!-- Interactive Snake Game -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AntaresAnton/AntaresAnton/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AntaresAnton/AntaresAnton/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AntaresAnton/AntaresAnton/output/github-contribution-grid-snake.svg">
-  </picture>
 
   <div style="margin: 20px 0">
     <!-- Visitor Counter with Analytics -->
@@ -31,10 +25,6 @@
     <a href="mailto:patricio@pquintanilla.cl">
       <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    
-    <!-- Real-time GitHub Activity -->
-    <br><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntaresAnton&theme=transparent&background=0D1117&stroke=00b3ff&ring=00b3ff&fire=00b3ff&currStreakNum=FFFFFF&sideNums=00b3ff&currStreakLabel=00b3ff&sideLabels=00b3ff&dates=FFFFFF&hide_border=true" alt="GitHub Streak"/>
   </div>
   
   <!-- Interactive Terminal Widget -->
@@ -299,94 +289,6 @@ Full Stack Developer y UI/UX Designer con experiencia en desarrollo web moderno.
   
   <br><br>
   
-  <!-- Coding Activity Charts -->
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AntaresAnton&theme=github_dark" alt="Repos by Language"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AntaresAnton&theme=github_dark" alt="Most Used Languages"/>
-  
-  <br><br>
-  
-  <!-- WakaTime Coding Stats (if you have it) -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AntaresAnton&theme=transparent&bg_color=0D1117&title_color=00b3ff&text_color=c9d1d9&hide_border=true&layout=compact" alt="WakaTime Stats"/>
-</div>
-
----
-
-## ⏰ Estadísticas de Codificación | <sup>*WakaTime Coding Stats*</sup>
-
-<!--START_SECTION:waka-->
-**🐱 Mis datos de GitHub** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 ? GitHub Repositories 
- > 
-> 🔑 ? Private Repositories 
- > 
-**Soy más productivo de noche 🦉** 
-
-```text
-🌅 Mañana      ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
-🌆 Día         ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
-🌃 Tarde       ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
-🌙 Noche       ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 %
-```
-
-**📅 Soy más activo los Lunes** 
-
-```text
-Lunes        ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
-Martes       ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
-Miércoles    ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
-Jueves       ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
-Viernes      ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
-Sábado       ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
-Domingo      ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 %
-```
-
-**📊 Esta semana dediqué mi tiempo a** 
-
-```text
-💬 Lenguajes de programación: 
-Python       ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
-JavaScript   ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
-TypeScript   ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
-React        ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
-Django       ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 %
-```
-
-**🔥 Editores** 
-
-```text
-VS Code      ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
-IntelliJ     ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
-PyCharm      ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 %
-```
-
-**💻 Sistema Operativo** 
-
-```text
-Windows      ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
-Linux        ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
-Mac          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 %
-```
-
-**📦 Categoría de Lenguajes** 
-
-```text
-Programming  ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
-Markup       ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
-Data         ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 %
-```
-
-**🚀 Lineas de Código que escribí desde el 18 de septiembre del 2025** 
-
-```text
-Total: 0 líneas
-Desde: 18 septiembre 2025
-Hasta: 18 septiembre 2025
-```
 
 <!--END_SECTION:waka-->
 
@@ -463,84 +365,6 @@ Hasta: 18 septiembre 2025
   <img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder" alt="Jokes Card" />
   
 </div>
-
----
-
-## 🚀 Mini-Juegos | <sup>*Interactive Games*</sup>
-
-<div align="center">
-  
-  <!-- Rock Paper Scissors Game -->
-  <details>
-    <summary><b>✂️ Rock Paper Scissors - GitHub Style!</b></summary>
-    <br>
-    
-    Choose your weapon by clicking on the commits, PRs, or merges below!
-    
-    ```
-    🪨 git commit -m "Rock solid code"     [Choose Rock]
-    📄 git push origin feature-branch     [Choose Paper] 
-    ✂️ git merge --no-ff hotfix          [Choose Scissors]
-    
-    Computer chose: git rebase --interactive  [Scissors]
-    Result: You Win! 🎉 
-    (Paper covers Scissors... wait, that's wrong! 😅)
-    ```
-    
-    <sub>**Score:** Wins: ▓▓▓░░ | Losses: ▓▓░░░ | Ties: ▓░░░░</sub>
-  </details>
-  
-  <!-- Typing Speed Test -->
-  <details>
-    <summary><b>⌨️ Coding Typing Test - How fast can you type code?</b></summary>
-    <br>
-    
-    ```typescript
-    // Type this code as fast as you can! ⏱️
-    
-    const fibonacci = (n: number): number => {
-      if (n <= 1) return n;
-      return fibonacci(n - 1) + fibonacci(n - 2);
-    };
-    
-    const result = Array.from({length: 10}, (_, i) => fibonacci(i));
-    console.log(result);
-    ```
-    
-    **Current WPM:** 🔥 **85 WPM** | **Accuracy:** ✅ **97%**
-    
-    <sub>Challenge your friends! Can you beat 100 WPM? 🚀</sub>
-  </details>
-  
-  <!-- Code Quiz -->
-  <details>
-    <summary><b>🧠 Quick Code Quiz - Test your programming knowledge!</b></summary>
-    <br>
-    
-    **Question 1:** What will this JavaScript code output?
-    ```javascript
-    console.log(typeof null);
-    ```
-    
-    <details>
-      <summary>A) "null"</summary>
-      ❌ Not quite! Try again.
-    </details>
-    <details>
-      <summary>B) "object"</summary>
-      ✅ Correct! This is one of JavaScript's famous quirks.
-    </details>
-    <details>
-      <summary>C) "undefined"</summary>
-      ❌ Nope! That would be for undefined variables.
-    </details>
-    
-    **Your Score:** 🎯 **8/10** | **Level:** 🔥 **Senior Developer**
-  </details>
-  
-</div>
-
----
 
 <!-- ## ⏳ Experiencia Profesional | <sup>*Professional Experience*</sup>
 
