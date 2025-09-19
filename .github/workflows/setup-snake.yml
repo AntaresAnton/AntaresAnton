@@ -1,0 +1,62 @@
+# 🔧 Additional GitHub Actions Workflow for Snake Game Setup
+# This ensures proper permissions and fallback configurations
+
+name: Setup Snake Game Environment
+
+# Runs only when manually triggered or on first setup
+on:
+  workflow_dispatch:
+    inputs:
+      force_run:
+        description: 'Force run the snake generation'
+        required: false
+        default: 'false'
+
+# Permissions needed for the snake game to work properly
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+  actions: read
+
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+    
+    steps:
+      # Checkout code
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      # Create necessary directories
+      - name: 📁 Create directories
+        run: |
+          mkdir -p assets
+          mkdir -p output
+          
+      # Create a placeholder file to ensure the branch exists
+      - name: 📄 Create placeholder
+        run: |
+          echo "# Snake Animation Output" > output/README.md
+          echo "This directory contains the generated snake animations." >> output/README.md
+          echo "" >> output/README.md
+          echo "Files:" >> output/README.md
+          echo "- github-contribution-grid-snake.svg (light mode)" >> output/README.md
+          echo "- github-contribution-grid-snake-dark.svg (dark mode)" >> output/README.md
+          echo "" >> output/README.md
+          echo "Generated on: $(date)" >> output/README.md
+          
+      # Commit and push if there are changes
+      - name: 🚀 Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🐍 Setup snake game environment"
+            git push
+          fi
