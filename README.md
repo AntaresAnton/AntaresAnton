@@ -1,18 +1,14 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AntaresAnton/AntaresAnton/main/assets/header-image.gif" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B3FF&height=300&section=header&text=Patricio%20Quintanilla&fontSize=70&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20Instructor&descAlignY=55&descAlign=50&animation=fadeIn" alt="Header" width="100%"/>
   
-  # ✨ Patricio Quintanilla Yevilao ✨
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00B3FF&center=true&vCenter=true&width=600&lines=Computer+Engineer+%26+Graphic+Designer;Full-Stack+Developer+%7C+Data+Analyst;Creating+High-Impact+Digital+Solutions;Instructor+%40+OTEC+El+Bosque+(60%2B+Capsules);Bilingual+Professional+(English+B1+%2F+Spanish)" alt="Typing SVG" /></a>
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00B3FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+UI%2FUX+Designer;Python+%7C+JavaScript+%7C+React+%7C+Django;Creating+Digital+Experiences+%F0%9F%9A%80;Rock+Music+Enthusiast+%F0%9F%8E%B8;Always+Learning+New+Technologies" alt="Typing SVG" /></a>
-  
-
   <div style="margin: 20px 0">
-    <!-- Visitor Counter with Analytics -->
+    <!-- Visitor Counter -->
     <img src="https://komarev.com/ghpvc/?username=AntaresAnton&style=for-the-badge&color=00b3ff&label=PROFILE+VIEWS" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/followers/AntaresAnton?style=for-the-badge&color=00b3ff&label=FOLLOWERS" alt="Followers"/>
     <br><br>
     
-    <!-- Interactive Badges -->
+    <!-- Social Badges -->
     <a href="https://www.linkedin.com/in/antn/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
@@ -26,369 +22,68 @@
       <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
   </div>
-  
-  <!-- Interactive Terminal Widget -->
-  <details>
-    <summary><b>🖥️ Interactive Terminal - Click to explore!</b></summary>
-    <br>
-    
-    ```bash
-    $ whoami
-    Patricio Quintanilla Yevilao - Full Stack Developer
-    
-    $ cat skills.txt
-    ├── Frontend: React, Vue.js, Angular, TypeScript
-    ├── Backend: Python, Django, Node.js, PHP
-    ├── Database: PostgreSQL, MySQL, MongoDB
-    ├── Cloud: AWS, Docker, Kubernetes
-    └── Design: Figma, Photoshop, Illustrator
-    
-    $ git log --oneline
-    🎸 Learning Death metal guitar solos
-    🚀 Building next-gen e-commerce platforms
-    🎨 Designing user-centered interfaces
-    📚 Mastering Java this year
-    
-    $ echo "Current Status"
-    Available for hire | Remote/Hybrid | Chile 🇨🇱
-    
-    $ help
-    Available commands: whoami, skills, projects, contact, music
-    ```
-  </details>
-  
-  ![Status](https://img.shields.io/badge/Status-Available%20for%20hire-brightgreen?style=flat-square&labelColor=black)
-  ![Location](https://img.shields.io/badge/Location-Chile-blue?style=flat-square&logo=google-maps&logoColor=white&labelColor=black)
 </div>
 
-## 🧙‍♂️ Sobre Mí | <sup>*About Me*</sup>
+## 👨‍💻 Sobre Mí | <sup>*About Me*</sup>
 
-> *"La creatividad es la inteligencia divirtiéndose"* - Albert Einstein
+> *"Design is not just what it looks like and feels like. Design is how it works."* - Steve Jobs
 
-Full Stack Developer y UI/UX Designer con experiencia en desarrollo web moderno. Especializado en **Python**, **JavaScript** y frameworks como **Django** y **React**. Me destaco en soluciones E-Commerce, APIs RESTful y bases de datos SQL. Mi enfoque único integra programación robusta con diseño visual, creando interfaces centradas en el usuario que son tanto funcionales como estéticamente atractivas.
+Soy **Ingeniero Informático** y **Diseñador Gráfico** Titulado, una combinación única que me permite cerrar la brecha entre la funcionalidad robusta y la experiencia de usuario excepcional. Con una sólida trayectoria técnica, recientemente desarrollé y produje más de **60 cápsulas educativas** sobre Inteligencia Artificial y herramientas Office para la **OTEC El Bosque**, demostrando mi capacidad no solo para ejecutar tecnología, sino también para comunicarla efectivamente.
 
-<details>
-  <summary><b>🌟 Más sobre mí...</b></summary>
+Mi perfil bilingüe (**Español Nativo / Inglés B1 - TOEIC 600**) me permite colaborar fluidamente en entornos internacionales, aportando una visión integral que abarca desde la arquitectura de datos hasta la interfaz final del usuario.
+
+---
+
+## 🛠️ Tech Stack & Herramientas
+
+<div align="center">
+
+| **Frontend & Design** | **Backend & Data** | **DevOps & Cloud** |
+|:---:|:---:|:---:|
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,figma,ps,ai" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,django,nodejs,mysql,postgres,mongodb,pandas,selenium" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux,bash" /></a> |
+
+</div>
+
+---
+
+## 🚀 Experiencia Destacada | <sup>*Featured Projects*</sup>
+
+| Proyecto | Descripción | Tech |
+| :--- | :--- | :--- |
+| **DocuPreventAI** | **MVP para la CChC (Cámara Chilena de la Construcción).** Sistema inteligente para la prevención de riesgos y gestión documental automatizada. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/-AI-FF6F00?style=flat&logo=openai&logoColor=white) |
+| **OTEC ERP** | Sistema integral de **Planificación de Recursos Empresariales** diseñado a medida para organismos técnicos de capacitación, optimizando flujos de trabajo y gestión académica. | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) |
+| **Cuentas Claras** | Sistema financiero para la transparencia y gestión eficiente de cuentas, enfocado en la usabilidad y la precisión de datos. | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) |
+
+---
+
+## 🎸 The Sound of Code | <sup>*Fueling Development*</sup>
+
+Mi pasión por el código solo se iguala a mi pasión por el **Death Metal**. La complejidad técnica de bandas como **Death** inspira mi búsqueda de precisión en el software.
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Guitar-Jackson_JS32TQ-red?style=for-the-badge&logo=yamaha&logoColor=white&labelColor=black"/>
+  <img src="https://img.shields.io/badge/Amp-Marshall_MG15CD-black?style=for-the-badge&logo=applemusic&logoColor=white&labelColor=black"/>
+  <br><br>
+  
+  <details>
+    <summary><b>🎼 Musical Journey & Gear</b></summary>
+    <br>
+    "The philosopher" of code - Siempre buscando la perfección técnica.
+    <br><br>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=12345&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00b3ff&bar_color_cover=true" alt="Spotify Now Playing" width="350"/>
+  </details>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AntaresAnton&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntaresAnton&hide_border=true&theme=transparent&background=0D1117&stroke=00b3ff&ring=00b3ff&fire=00b3ff&currStreakNum=FFFFFF&sideNums=00b3ff&currStreakLabel=00b3ff&sideLabels=00b3ff&dates=FFFFFF" height="180"/>
+</div>
+
+<div align="center">
   <br>
-  
-  - 🔭 Actualmente trabajando en proyectos de E-commerce avanzados
-  - 🌱 Aprendiendo continuamente sobre arquitecturas cloud y DevOps
-  - 👯 Buscando colaborar en proyectos de impacto social
-  - 💬 Pregúntame sobre desarrollo web, diseño UI/UX o Música :D
-  - 🎸 Fan del rock y con el sueño de tocar guitarra como Chuck Schuldiner (Death)
-  - 🎨 Entusiasta de Bootstrap para el desarrollo frontend
-  - 🎯 Este año me he prometido dominar Java por completo
-</details>
-
-
-
----
-
-## 💻 Stack Tecnológico | <sup>*Tech Stack*</sup>
-
-<!-- Skill Progress Animation -->
-<div align="left">
-  
-  **🔥 Lenguajes de Programación**
-  
-  ![Python](https://img.shields.io/badge/Python-90%25-3776ab?style=flat-square&logo=python&logoColor=white&labelColor=black)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-85%25-f7df1e?style=flat-square&logo=javascript&logoColor=black&labelColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-80%25-3178c6?style=flat-square&logo=typescript&logoColor=white&labelColor=black)
-  ![Java](https://img.shields.io/badge/Java-75%25-ed8b00?style=flat-square&logo=java&logoColor=white&labelColor=black)
-  ![PHP](https://img.shields.io/badge/PHP-70%25-777bb4?style=flat-square&logo=php&logoColor=white&labelColor=black)
-  
-  **🚀 Frameworks & Bibliotecas**
-  
-  ![React](https://img.shields.io/badge/React-85%25-61dafb?style=flat-square&logo=react&logoColor=black&labelColor=black)
-  ![Django](https://img.shields.io/badge/Django-90%25-092e20?style=flat-square&logo=django&logoColor=white&labelColor=black)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-75%25-4fc08d?style=flat-square&logo=vue.js&logoColor=white&labelColor=black)
-  ![Node.js](https://img.shields.io/badge/Node.js-80%25-339933?style=flat-square&logo=node.js&logoColor=white&labelColor=black)
-  ![Next.js](https://img.shields.io/badge/Next.js-82%25-000000?style=flat-square&logo=next.js&logoColor=white&labelColor=black)
-  
-  **🛢️ Bases de Datos & DevOps**
-  
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-85%25-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=black)
-  ![MySQL](https://img.shields.io/badge/MySQL-80%25-4479a1?style=flat-square&logo=mysql&logoColor=white&labelColor=black)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-75%25-47a248?style=flat-square&logo=mongodb&logoColor=white&labelColor=black)
-  ![AWS](https://img.shields.io/badge/AWS-70%25-ff9900?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=black)
-  ![Docker](https://img.shields.io/badge/Docker-78%25-2496ed?style=flat-square&logo=docker&logoColor=white&labelColor=black)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AntaresAnton&theme=github_dark" width="100%"/>
 </div>
-
-### 🔧 Interactive Tech Matrix
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/></a>
-      <br>Python
-      <br><sub>⭐⭐⭐⭐⭐</sub>
-    </td>
-    <td align="center" width="96">
-      <a href="#"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/></a>
-      <br>JavaScript
-      <br><sub>⭐⭐⭐⭐⭐</sub>
-    </td>
-    <td align="center" width="96">
-      <a href="#"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65"/></a>
-      <br>React
-      <br><sub>⭐⭐⭐⭐⭐</sub>
-    </td>
-    <td align="center" width="96">
-      <a href="#"><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65"/></a>
-      <br>Django
-      <br><sub>⭐⭐⭐⭐⭐</sub>
-    </td>
-    <td align="center" width="96">
-      <a href="#"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65"/></a>
-      <br>TypeScript
-      <br><sub>⭐⭐⭐⭐</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65"/></a>
-      <br>MySQL
-      <br><sub>⭐⭐⭐⭐</sub>
-    </td>
-    <td align="center" width="96">
-      <a href="#"><img src="https://techstack-generator.vercel.app/postgres-icon.svg" alt="PostgreSQL" width="65" height="65"/></a>
-      <br>PostgreSQL
-      <br><sub>⭐⭐⭐⭐⭐</sub>
-    </td>
-    <td align="center" width="96">
-      <a href="#"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65"/></a>
-      <br>AWS
-      <br><sub>⭐⭐⭐⭐</sub>
-    </td>
-    <td align="center" width="96">
-      <a href="#"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="65" height="65"/></a>
-      <br>Figma
-      <br><sub>⭐⭐⭐⭐</sub>
-    </td>
-    <td align="center" width="96">
-      <a href="#"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65"/></a>
-      <br>Git
-      <br><sub>⭐⭐⭐⭐⭐</sub>
-    </td>
-  </tr>
-</table>
-
-<!-- Coding Activity Visualization -->
-<div align="center">
-</div>
-
----
-
-## 🎸 Soundtrack | <sup>*What I'm vibing to*</sup>
-
-<div align="center">
-  
-  <!-- Spotify Playing -->
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=12345&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00b3ff&bar_color_cover=true" alt="Spotify Now Playing" width="400"/>
-  
-  <br><br>
-  
-  <!-- Music Badges -->
-  <img src="https://img.shields.io/badge/🎸_Death_Metal-Chuck_Schuldiner-FF6B6B?style=for-the-badge&labelColor=black"/>
-  <img src="https://img.shields.io/badge/🤘_Rock-Progressive_Metal-FF8E53?style=for-the-badge&labelColor=black"/>
-  <img src="https://img.shields.io/badge/🎵_Genre-Alternative_Rock-4ECDC4?style=for-the-badge&labelColor=black"/>
-  
-  <details>
-    <summary><b>🎼 My Musical Journey</b></summary>
-    <br>
-    
-    ```
-    🎸 Current Guitar Goals:
-    ├── Master Chuck Schuldiner's techniques
-    ├── Learn complex Death metal solos
-    ├── Compose original progressive pieces
-    └── Jam with local metal bands
-    
-    🎵 Favorite Bands:
-    • Death (Chuck Schuldiner forever! 🤘)
-    • Tool, Dream Theater, Opeth
-    • Pink Floyd, Led Zeppelin
-    • Porcupine Tree, King Crimson
-    
-    🎚️ When I Code I Listen To:
-    • Progressive Metal for complex algorithms
-    • Ambient/Post-Rock for UI/UX design
-    • Classic Rock for debugging sessions
-    • Death Metal for deploy days 😄
-    ```
-  </details>
-</div>
-
----
-
-<!-- ## 🏆 Proyectos Destacados | <sup>*Featured Projects*</sup>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">E-Commerce Avanzado</h3>
-        <div align="center">  
-          <a href="https://github.com/AntaresAnton/proyecto-ecommerce" target="_blank">
-            <img src="https://dummyimage.com/600x400/000/fff&text=E-Commerce+Screenshot" alt="E-Commerce Project" height="180px"/>
-          </a>
-          <br>
-          <p>
-            <a href="https://github.com/AntaresAnton/proyecto-ecommerce" target="_blank">
-              <img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>  
-            <a href="https://mi-ecommerce-demo.vercel.app" target="_blank">
-              <img src="https://img.shields.io/badge/Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-            </a>
-          </p>
-          <p><strong>React, Django, PostgreSQL</strong> - Plataforma completa de e-commerce con sistema de pagos, gestión de inventario y panel de administración.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Dashboard Analytics</h3>
-        <div align="center">  
-          <a href="https://github.com/AntaresAnton/analytics-dashboard" target="_blank">
-            <img src="https://dummyimage.com/600x400/000/fff&text=Dashboard+Analytics" alt="Dashboard Project" height="180px"/>
-          </a>
-          <br>
-          <p>
-            <a href="https://github.com/AntaresAnton/analytics-dashboard" target="_blank">
-              <img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>  
-            <a href="https://dashboard-demo.vercel.app" target="_blank">
-              <img src="https://img.shields.io/badge/Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-            </a>
-          </p>
-          <p><strong>Vue.js, Node.js, MongoDB</strong> - Dashboard de análisis de datos con visualizaciones avanzadas y reporting en tiempo real.</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div> -->
-
----
-
-## 📊 Estadísticas de GitHub | <sup>*GitHub Statistics*</sup>
-
-<div align="center">
-  
-  <!-- Advanced GitHub Stats Dashboard -->
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=AntaresAnton&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="GitHub Stats" /> 
-  <img width="49%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=AntaresAnton&hide_border=true&theme=transparent&background=0D1117&stroke=00b3ff&ring=00b3ff&fire=00b3ff&currStreakNum=FFFFFF&sideNums=00b3ff&currStreakLabel=00b3ff&sideLabels=00b3ff&dates=FFFFFF" alt="GitHub Streak"/>
-  
-  <br><br>
-  
-  <!-- Language Stats with More Details -->
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntaresAnton&layout=compact&hide_border=true&title_color=00b3ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8&exclude_repo=repo1,repo2" alt="Top Languages"/>
-  <img width="49%" height="200px" src="https://github-profile-trophy.vercel.app/?username=AntaresAnton&theme=algolia&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" alt="Trophy Stats"/>
-  
-  <br><br>
-  
-  <!-- Detailed Analytics -->
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AntaresAnton&theme=github_dark" alt="Detailed Analytics"/>
-  
-  <br><br>
-  
-
-<!--END_SECTION:waka-->
-
-### 📈 Actividad de Contribuciones
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AntaresAnton&theme=react-dark&bg_color=0D1117&hide_border=true&line=00b3ff&point=00b4ff&area=true&area_color=00b3ff" width="100%"/>
-
-### 🎯 Métricas Interactivas
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AntaresAnton&theme=github_dark" alt="Stats"/>
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AntaresAnton&theme=github_dark&utc_offset=-3" alt="Productive Time"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 💭 Inspiración Diaria | <sup>*Daily Inspiration*</sup>
-
-<div align="center">
-  
-  <!-- Dynamic Quote Widget -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker" alt="Developer Quote"/>
-  
-  <br><br>
-  
-  <!-- Interactive Code Challenge -->
-  <details>
-    <summary><b>🧩 Daily Code Challenge - Click to see today's puzzle!</b></summary>
-    <br>
-    
-    ```python
-    # 🎯 Challenge: Fibonacci with a Twist
-    # Create a function that returns the nth Fibonacci number
-    # but skips numbers divisible by 3
-    
-    def fibonacci_twist(n):
-        # Your code here
-        pass
-    
-    # Test case: fibonacci_twist(10) should return ?
-    # Hint: Normal Fibonacci: 1,1,2,3,5,8,13,21,34,55
-    # Skipping multiples of 3: 1,1,2,5,8,13,34,55...
-    ```
-    
-    <details>
-      <summary><i>💡 Click for solution</i></summary>
-      
-      ```python
-      def fibonacci_twist(n):
-          fib = [1, 1]
-          while len(fib) < n + 10:  # Generate extra to account for skipped
-              fib.append(fib[-1] + fib[-2])
-          
-          # Filter out multiples of 3
-          filtered = [x for x in fib if x % 3 != 0]
-          return filtered[n-1] if n <= len(filtered) else None
-      
-      # fibonacci_twist(10) = 233
-      ```
-    </details>
-  </details>
-  
-  <br>
-  
-  <!-- Fun Developer Facts -->
-  <img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder" alt="Jokes Card" />
-  
-</div>
-
-<!-- ## ⏳ Experiencia Profesional | <sup>*Professional Experience*</sup>
-
-```mermaid
-timeline
-    title Mi Trayectoria Profesional
-    2018 : Full Stack Developer
-         : Empresa XYZ
-    2019 : Senior Web Developer
-         : Empresa ABC
-    2021 : UI/UX Designer & Developer
-         : Freelance
-    2022 : Lead Developer
-         : Agencia Digital
-    2023 - Presente : Tech Lead
-         : Empresa Actual
-``` -->
-
----
-
-## 📫 Contáctame | <sup>*Contact Me*</sup>
-
-<div align="center">
-  <a href="mailto:patricio@pquintanilla.cl">
-    <img src="https://img.shields.io/badge/Email-patricio@pquintanilla.cl-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="
